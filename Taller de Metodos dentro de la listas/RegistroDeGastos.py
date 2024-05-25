@@ -1,0 +1,1 @@
+#Si estas llevando un registro de tus gastos diarios, podrias necesitar agregar nuevos gastos, eliminar gastos incorrectos y calcular el total gastado hasta el momento.
