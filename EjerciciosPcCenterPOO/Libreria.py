@@ -27,4 +27,4 @@ library2.add_book("Libro 2")
 library3.add_book("Libro 3")
 
 print("Número total de libros en la biblioteca:", Library.get_total_books())
-Library.print_books()
+Library.print_books()  
