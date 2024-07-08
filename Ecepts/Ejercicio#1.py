@@ -1,0 +1,1 @@
+#crear un programa usando excepts e incluir estos 2 errores al leer el archivo
