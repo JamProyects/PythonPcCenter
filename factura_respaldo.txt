@@ -1,0 +1,12 @@
+Número de Serie: 2
+Meses a Alquilar: 2
+Alquiler Total: B/ 1400.00
+
+Número de Serie: gda
+Meses a Alquilar: 2
+Alquiler Total: B/ 1400.00
+
+Número de Serie: 200
+Meses a Alquilar: 20
+Alquiler Total: B/ 10000.00
+
