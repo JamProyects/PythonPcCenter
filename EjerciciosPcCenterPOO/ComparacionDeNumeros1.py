@@ -25,5 +25,6 @@ num3 = float(input("ingrese un numero: "))
 resultado = comparador.comparar_tres_numeros(num1, num2, num3)
 print(resultado)
 
+JAJAJAJAJAS
         
 
